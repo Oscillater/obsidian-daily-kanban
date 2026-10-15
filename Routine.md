@@ -1,0 +1,5 @@
+- [ ] Wake up before 8
+- [ ] Exercise 30 minutes
+- [ ] Read 20 pages
+- [ ] Journal
+- [ ] Sleep before 23:00

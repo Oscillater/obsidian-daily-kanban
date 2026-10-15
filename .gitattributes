@@ -1,0 +1,2 @@
+# Normalise line endings so Windows/macOS checkouts do not churn the diff
+* text=auto

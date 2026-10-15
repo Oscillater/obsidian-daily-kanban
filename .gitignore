@@ -1,0 +1,13 @@
+# Session / UI state: rewritten on every launch, pure noise in history
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Plugin binaries are installed from the community browser, not vendored here
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+
+# OS junk
+.DS_Store
+Thumbs.db
